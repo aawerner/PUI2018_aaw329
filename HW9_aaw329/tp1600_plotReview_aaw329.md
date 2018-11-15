@@ -1,4 +1,6 @@
-### Plot review for [tp1600](https://github.com/patafiot/PUI2018_tp1600/tree/master/HW8_tp1600)
+## Plot review for [tp1600](https://github.com/patafiot/PUI2018_tp1600/tree/master/HW8_tp1600)
+
+---
 
 ![tp1600's plot](https://github.com/patafiot/PUI2018_tp1600/blob/master/HW8_tp1600/pui_hw81.png)
 
