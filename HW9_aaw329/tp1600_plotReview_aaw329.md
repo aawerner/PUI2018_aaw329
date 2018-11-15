@@ -1,7 +1,5 @@
 ## Plot review for [tp1600](https://github.com/patafiot/PUI2018_tp1600/tree/master/HW8_tp1600)
 
----
-
 ![tp1600's plot](https://github.com/patafiot/PUI2018_tp1600/blob/master/HW8_tp1600/pui_hw81.png)
 
 The plot is visually clear to understand overall, and shows clearly the patterns mentioned in the caption, but I would suggest modifying the color scheme since it might be a bit difficult to discern the pink/red/orange lines for someone with colorblindness (tested with deuteranopia mode using the Color Oracle app). The different line types (dotted, dashed, solid) do help mitigate this, though. 
