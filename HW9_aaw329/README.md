@@ -8,4 +8,4 @@ Use statsmodels for linear regressions.
 
 ## Assignment 3
 
-
+Explore data regarding GDP, population, firearms, firearm-related homicides, and mass shootings in various countries. Fit linear regressions to the data.
