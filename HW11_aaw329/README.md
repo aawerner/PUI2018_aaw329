@@ -2,8 +2,6 @@
 
 Using the specified MTA data from 2010 to 2014, perform an analysis to find outliers, trends, and build and evalutate decision tree models. 
 
-![Plot for assignment 1](plot.png)
-
 ## Assignment 2
 
 Update my plot from homework 8, taking into account the suggestions from my classmates. The following changes have been made:
