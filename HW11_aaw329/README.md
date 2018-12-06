@@ -1,6 +1,6 @@
 ## Assignment 1
 
-Using the specified MTA data from 2010 to 2014, perform an analysis to find outliers, trends, and build and evalutate decision tree models. 
+Using the specified MTA data from 2010 to 2014, perform an analysis to find outliers, trends, and build and evaluate decision tree models. 
 
 ## Assignment 2
 
